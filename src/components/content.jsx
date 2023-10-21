@@ -2,7 +2,7 @@ import SongForMe from "./songForMe"
 import HeaderContent from "./headerContent"
 import SongForAll from "./songForAll"
 import FooterContent from "./footerContent"
-import SongPrincipal from "./SongPrincipal"
+import SongPrincipal from "./songPrincipal"
 
 const Content = () => {
     return (
